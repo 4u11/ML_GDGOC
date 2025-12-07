@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1cOfKJLbgNkO0MEGpZJZ9Pdpmxvy5-1nv
 
 Variable
-pertanyaan: Bang izin nanya di python itu ada kah class yang seperti di java kek protected, publicc, private dll
 """
 
 #Python Variables
